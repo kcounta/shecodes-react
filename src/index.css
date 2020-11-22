@@ -9,3 +9,12 @@ h1,
 h2 {
   font-family: "Arya", sans-serif;
 }
+
+a {
+  color: black;
+  font-weight: bold;
+}
+
+footer {
+  margin: 2em 0;
+}
