@@ -2,3 +2,23 @@
   margin: 0 auto;
   text-align: center;
 }
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 0.2em 0;
+}
+
+form input[type="search"] {
+  padding: 0 0.5em;
+  min-width: 200px;
+  text-transform: capitalize;
+  height: 35px;
+}
+
+form input[type="submit"] {
+  height: 35px;
+  margin: 0 0 0 4px;
+}
